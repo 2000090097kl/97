@@ -1,0 +1,9 @@
+git status
+git init
+git commit
+cd
+mkdirgit status
+git init
+git commit
+cd
+mkdir
